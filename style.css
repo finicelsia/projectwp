@@ -12,11 +12,11 @@ h2{
 body{
 	background-color: pink;
 	font-family: sans-serif;
-	font-size: 15px;
+	font-size: 20px;
 }
 
 p{
-	font-size: 10pt;
+	font-size: 20px;
 	color: navy;
 	font-family: serif;
 }
@@ -24,4 +24,6 @@ p{
 li{
 	color: blue;
 	font-size: 15px;
+	font-family: serif;
+	height: 10px;
 }
