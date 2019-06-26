@@ -1,7 +1,7 @@
 h1{
 	color: white;
 	font-family: serif;
-	
+	text-align: center;
 }
 
 h2{
@@ -11,10 +11,11 @@ h2{
 
 body{
 	background-color: pink;
-	font-family: 
+	font-family: sans-serif;
 }
 
 p{
+	
 
 }
 
