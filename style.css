@@ -1,4 +1,4 @@
-h1{ 
+h1{
 	color: white;
 	font-family: serif;
 	text-align: center;
@@ -16,13 +16,13 @@ body{
 }
 
 p{
-	font-size: 20px;
-	color: navy;
+	font-size: 18px;
+	color: black;
 	font-family: serif;
 }
 
 li{
-	color: blue;
+	color: black;
 	font-size: 15px;
 	font-family: serif;
 }
