@@ -16,11 +16,12 @@ body{
 }
 
 p{
-	font-size: 10px;
+	font-size: 10pt;
 	color: navy;
+	font-family: serif;
 }
 
 li{
 	color: blue;
-	font-size: 15pt;
+	font-size: 15px;
 }
