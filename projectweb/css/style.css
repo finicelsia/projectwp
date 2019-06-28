@@ -13,13 +13,16 @@ body {
 }
 /*about*/
 .dark{
+  opacity: 0.7;
   padding: 15px;
-  background: pink;
+  background: white;
   color: black;
   margin-top: 10px;
   margin-bottom: 10px;
-  border: white solid 2px;
+  border: pink 2px;
 }
+
+
 
 ul{
   margin: 0;
@@ -218,8 +221,9 @@ ul#services h3{
   }
 }
 .contactt{
+  opacity: 0.8;
   padding: 15px;
-  background: gray;
+  background: white;
   color: black;
   margin-top: 40px;
   margin-bottom: 10px;
