@@ -221,6 +221,19 @@ ul#services h3{
   padding: 15px;
   background: gray;
   color: black;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+form{
+  text-align: center;
+}
+
+form div{
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  grid-gap: 16px;
   margin-top: 10px;
   margin-bottom: 10px;
 }
