@@ -18,11 +18,22 @@ body {
   color: black;
   margin-top: 10px;
   margin-bottom: 10px;
+  border: white solid 2px;
 }
 
 ul{
   margin: 0;
   padding: 0;
+}
+
+/*testimonial*/
+.top{
+  padding: 15px;
+  background: pink;
+  color: black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: white solid 2px;
 }
 
 /* Header */
