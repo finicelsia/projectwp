@@ -247,3 +247,13 @@ form div{
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+.new{
+  opacity: 0.7;
+  padding: 15px;
+  background: white;
+  color: black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: pink solid 2px;
+}
