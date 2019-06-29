@@ -25,6 +25,8 @@ body {
 
 .page-title{
   font-family: "times"
+   text-align: center; 
+  font-size: 30px;
 }
 
 ul{
