@@ -215,8 +215,8 @@ ul#services h3{
   #newsletter button {
     display: block;
     width: 100%;
-  }
-
+  } 
+ 
   #newsletter form input[type="email"],
   .contact input,
   .contact textarea,
@@ -232,6 +232,14 @@ ul#services h3{
   color: black;
   margin-top: 40px;
   margin-bottom: 10px;
+  text-align: center;
+}
+
+.contactt h4{
+  text-align: center;
+}
+
+.share{
   text-align: center;
 }
 
