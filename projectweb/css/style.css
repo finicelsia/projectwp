@@ -178,9 +178,9 @@ aside#sidebar input, aside#sidebar textarea {
 ul#services li{
   list-style: none;
   padding: 20px;
-  border: white solid 2px;
+  border: pink solid 2px;
   margin-bottom: 10px;
-  background: pink;
+  background:white;
   
 }
 
