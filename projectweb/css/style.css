@@ -20,9 +20,12 @@ body {
   margin-top: 10px;
   margin-bottom: 10px;
   border: pink 2px;
+  font-family: "times";
 }
 
-
+.page-title{
+  font-family: "times"
+}
 
 ul{
   margin: 0;
@@ -184,6 +187,8 @@ ul#services li{
 
 ul#services h3{
   border-bottom: #353637 solid 1px;
+  font-family: "times";
+  text-align: center;
 }
 
 @media(max-width: 768px){
