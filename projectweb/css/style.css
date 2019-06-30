@@ -35,6 +35,12 @@ body {
   font-size: 30px;
   color: lightsalmon;
 }
+  #med .ballroom{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 ul{
   margin: 0;
