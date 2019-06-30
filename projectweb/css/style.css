@@ -1,6 +1,6 @@
 body {
   font: 15px/1.5 Arial, Helvetica, sans-serif;
-  padding: 0; 
+  padding: 0;
   margin: 0;
   background-color: #f4f4f4;
   background-image: url('../img/f.jpg');
@@ -25,7 +25,13 @@ body {
 
 .page-title{
   font-family: "times";
-  text-align: left; 
+  text-align: left;
+  font-size: 30px;
+  margin-left: 100px;
+}
+.p-title{
+  font-family: "times";
+  text-align: center;
   font-size: 30px;
   margin-left: 100px;
 }
@@ -195,7 +201,7 @@ ul#services li{
   border: pink solid 2px;
   margin-bottom: 10px;
   background:white;
-  
+
 }
 
 ul#services h3{
@@ -225,12 +231,12 @@ ul#services h3{
   #showcase h1 {
     margin-top: 40px;
   }
- 
+
   #newsletter button {
     display: block;
     width: 100%;
-  } 
- 
+  }
+
   #newsletter form input[type="email"],
   .contact input,
   .contact textarea,
