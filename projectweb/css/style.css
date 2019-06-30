@@ -158,8 +158,9 @@ header a:hover{
 
 #boxes h3{
   color: lightsalmon;
-  background: pink;
+  background: white;
   font-style: "Arial";
+  opacity: 0.9;
 }
 
 footer{
