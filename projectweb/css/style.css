@@ -1,6 +1,6 @@
 body {
   font: 15px/1.5 Arial, Helvetica, sans-serif;
-  padding: 0;
+  padding: 0; 
   margin: 0;
   background-color: #f4f4f4;
   background-image: url('../img/f.jpg');
@@ -24,9 +24,10 @@ body {
 }
 
 .page-title{
-  font-family: "times"
-  text-align: center; 
+  font-family: "times";
+  text-align: left; 
   font-size: 30px;
+  margin-left: 100px;
 }
 
 ul{
@@ -267,4 +268,8 @@ form div{
   margin-top: 10px;
   margin-bottom: 10px;
   border: pink solid 2px;
+  font-family: "times";
+  margin-right: auto;
+  margin-left: auto;
+  width: 50em;
 }
